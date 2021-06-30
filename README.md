@@ -26,6 +26,10 @@ The rear shoulder drive and moves Link 1 in a vertical plane at an angle less th
 
 3- Arm (1)
 
+4- Arm (2)
+
+
+5- Gripper
 
 
 
